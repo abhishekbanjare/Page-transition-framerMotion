@@ -7,7 +7,7 @@ const Menu = () => {
       <div className='container'>
          <div className='cart-box' >
             <div className='A' >
-                <img src='src/component/menu/img/img8.jpg' alt='abhishek'/>
+                <img src='src/component/menu/img/img.jpg' alt='abhishek'/>
             </div>
             <div className='B'>
                <h3>Papperoni Pizza 1</h3>
