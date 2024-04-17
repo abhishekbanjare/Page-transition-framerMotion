@@ -1,14 +1,12 @@
 import { useState } from 'react'
 import './App.css'
-
+import Header from './component/header/Header'
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-    <h1>Hello ji </h1>
-    <h1>My Name is Abhishek Banjare</h1>
-    <h1>Am Software Developer from Banglore</h1>      
+      <Header />   
     </>
   )
 }
